@@ -9,3 +9,5 @@ The Exploited: 23 Megabytes a Second - The Spider - Sinuous Trail - Valley of th
 The Abducted: Ends of the Earth - Greased Palms - Buy Cheap, Buy Twice - Hide and Seek
 The Left Behind: A Lethal Obsession - Ides of March - Sins of the Father - Carriers of the Vine
 The Decaying City: Elephant - Neon Tomb - Relapse
+
+Credit goes to VOID Interactive, Zack Bower, and Dan Liston.
